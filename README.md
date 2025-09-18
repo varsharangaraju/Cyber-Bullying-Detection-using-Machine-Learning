@@ -1,6 +1,6 @@
 # Cyber-Bullying-Detection-using-Machine-Learning
 Machine learning project to classify tweets as cyberbullying or non-cyberbullying using NLP techniques.
-# Cyberbullying Tweet Prediction
+CYBER BULLYING TWEET PREDICTION-
 
 This project focuses on detecting cyberbullying in tweets using **Natural Language Processing (NLP)** and **Machine Learning** techniques.  
 
